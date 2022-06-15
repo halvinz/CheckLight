@@ -497,6 +497,10 @@ a:focus {
   text-align: center;
 }
 
+.footer_section h5,a {
+  margin : 10px;
+}
+
 .footer_section a {
   color: #191818;
 }
