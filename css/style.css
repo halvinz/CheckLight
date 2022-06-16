@@ -503,6 +503,7 @@ a:focus {
 
 .footer_section a {
   color: #191818;
+  display: inline;
 }
 
 /* end footer section*/
@@ -513,4 +514,10 @@ iframe{
   height:400px;
 
 
+}
+
+
+
+h9 {
+  display: inline;
 }
